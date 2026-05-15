@@ -1,7 +1,5 @@
 # Step 1 — Explain JSON Conceptually
 
-Before coding, explain:
-
 ## What is JSON?
 
 JSON stands for:
