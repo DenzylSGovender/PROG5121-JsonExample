@@ -113,8 +113,6 @@ Maven downloads Gson automatically.
 
 ---
 
----
-
 # Step 4 — Create a Simple Message Class
 
 Create a class called:
